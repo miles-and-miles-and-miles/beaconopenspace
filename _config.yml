@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Beacon Open Space Project"
+title                    : "beacon open space project"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Beacon, NY"
-description              : "beacon-open-space@proton.me"
+name                     : # "Beacon, NY"
+description              : # "beacon-open-space@proton.me"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -119,9 +119,9 @@ author:
   location         : "Beacon, NY"
   email            : "beacon-open-space@proton.me"
   links:
-    - label: "Email"
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:beacon-open-space@proton.me"
+      url: "mailto:beacon-open-space@proton.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
