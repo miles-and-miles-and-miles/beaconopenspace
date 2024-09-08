@@ -6,5 +6,5 @@ main:
      url: /osi/
    - title: "what's beacon doing?"
      url: /progress/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+   - title: "take action"
+     url: /action/
