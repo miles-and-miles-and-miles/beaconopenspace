@@ -2,8 +2,8 @@
 main:
    - title: "contact us"
      url: mailto:beacon-open-space@proton.me
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "what is open space?"
+     url: /osi/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
