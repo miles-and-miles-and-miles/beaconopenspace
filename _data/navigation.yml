@@ -4,7 +4,7 @@ main:
      url: mailto:beacon-open-space@proton.me
    - title: "what is open space?"
      url: /osi/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+   - title: "what's beacon doing?"
+     url: /progress/
   # - title: "Sitemap"
   #   url: /sitemap/
